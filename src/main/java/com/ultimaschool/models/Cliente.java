@@ -1,4 +1,4 @@
-package com.ultimaschool.java.clientes;
+package com.ultimaschool.models;
 
 public class Cliente {
     private String cpf;
