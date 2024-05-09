@@ -1,4 +1,4 @@
-package com.ultimaschool.clientes;
+package com.ultimaschool.java.clientes;
 
 public class Main {
     public static void main(String[] args) {

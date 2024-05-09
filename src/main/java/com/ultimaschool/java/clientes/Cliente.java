@@ -1,4 +1,4 @@
-package com.ultimaschool.clientes;
+package com.ultimaschool.java.clientes;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
