@@ -1,7 +1,5 @@
 package com.ultimaschool.clientes;
 
-import com.ultimaschool.clientes.Cliente;
-
 public class Main {
     public static void main(String[] args) {
 
